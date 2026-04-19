@@ -1,0 +1,2 @@
+# texturepack
+for bedwars
